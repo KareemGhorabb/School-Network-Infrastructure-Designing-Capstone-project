@@ -19,6 +19,18 @@ This repository contains all project files and documentation related to:
 - Detailed cost analysis
 - Implementation of best practices in network design and security
 
+## Files
+![The Circuit Design](/imgs/circuit.png)
+
+## Prototype itself
+
+![The Circuit Design](/imgs/IMG_20240408_185543-removebg-preview.png)
+
 ## Purpose
 
 The aim of this project is to provide a scalable, secure, and cost-effective network infrastructure for educational institutions, ensuring robust connectivity and network performance.
+
+---
+## Contact info
+- **Email**: [Kareemhossam.weschool@gmail.com]
+- **LinkedIn**: [My Profile](www.linkedin.com/in/kareem-hossam-ghorab-a52b35235/)
