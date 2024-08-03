@@ -35,9 +35,6 @@ This repository contains all project files and documentation related to:
 
 
 
-## Prototype itself
-
-![The Circuit Design](/imgs/IMG_20240408_185543-removebg-preview.png)
 
 ## Purpose
 
