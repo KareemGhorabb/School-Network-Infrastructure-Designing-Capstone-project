@@ -20,10 +20,10 @@ This repository contains all project files and documentation related to:
 - Implementation of best practices in network design and security
 
 ## Files
-![0 Floor Drawing](/imgs/ 0 Floor Drawing.jpg)
-![1st Floor Drawing](/imgs/ 1st Floor Drawing.jpg)
-![2nd Floor Drawing](/imgs/ 2nd Floor Drawing.jpg)
-![3rd Floor Drawing](/imgs/ 3rd Floor Drawing.jpg)
+![0 Floor Drawing](/imgs/0 Floor Drawing.jpg)
+![1st Floor Drawing](/imgs/1st Floor Drawing.jpg)
+![2nd Floor Drawing](/imgs/2nd Floor Drawing.jpg)
+![3rd Floor Drawing](/imgs/3rd Floor Drawing.jpg)
 
 
 
