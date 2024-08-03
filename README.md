@@ -52,12 +52,11 @@ Attached to this Repo.
 You can view the Google Sheet [here](https://docs.google.com/spreadsheets/d/1DOMiOZ2ppR1jsNC3ClYFrMyp4GHXe6UPI2w7Dplr5hM/edit?pli=1&gid=0#gid=0).
 
 
+
+
 ## Google Sheet Overview
 
-![Google Sheet](/imgs/Spread-sheet-overview.png)
-## Google Sheet Overview
-
-![Google Sheet](imgs/Spread-sheet-overview.png)
+![Google Sheet](imgs/Spread%20sheet%20overview.png)
 
 ---
 ## Contact info
