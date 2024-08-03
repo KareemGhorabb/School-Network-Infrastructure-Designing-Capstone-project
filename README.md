@@ -40,6 +40,12 @@ This repository contains all project files and documentation related to:
 
 The aim of this project is to provide a scalable, secure, and cost-effective network infrastructure for educational institutions, ensuring robust connectivity and network performance.
 
+
+## Attachments
+
+Attached to this Repo. 
+1- eddx files itself
+2- The spreadsheet of devices' prices
 ---
 ## Contact info
 - **Email**: [Kareemhossam.weschool@gmail.com]
