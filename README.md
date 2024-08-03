@@ -46,6 +46,17 @@ The aim of this project is to provide a scalable, secure, and cost-effective net
 Attached to this Repo. 
 1- eddx files itself
 2- The spreadsheet of devices' prices
+
+## Google Sheet
+
+You can view the Google Sheet [here](https://docs.google.com/spreadsheets/d/1DOMiOZ2ppR1jsNC3ClYFrMyp4GHXe6UPI2w7Dplr5hM/edit?pli=1&gid=0#gid=0).
+
+
+## Google Sheet Overview
+
+![Google Sheet](imgs/google-sheet-overview.png)
+
+
 ---
 ## Contact info
 - **Email**: [Kareemhossam.weschool@gmail.com]
