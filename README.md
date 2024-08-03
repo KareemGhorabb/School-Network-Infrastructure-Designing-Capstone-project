@@ -54,7 +54,7 @@ You can view the Google Sheet [here](https://docs.google.com/spreadsheets/d/1DOM
 
 ## Google Sheet Overview
 
-![Google Sheet](imgs/Spread-sheet-overview.png)
+![Google Sheet](/imgs/Spread-sheet-overview.png)
 
 
 ---
