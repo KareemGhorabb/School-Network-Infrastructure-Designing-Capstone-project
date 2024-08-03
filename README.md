@@ -21,8 +21,17 @@ This repository contains all project files and documentation related to:
 
 
 ## Files
+## Floor 0
+![0 Floor Drawing](imgs/0%20Floor%20Drawing.jpg) 
 
-![0 Floor Drawing](imgs/0%20Floor%20Drawing.jpg) ![1st Floor Drawing](imgs/1st%20Floor%20Drawing.jpg) ![2nd Floor Drawing](imgs/2nd%20Floor%20Drawing.jpg) ![3rd Floor Drawing](imgs/3rd%20Floor%20Drawing.jpg)
+## Floor 1
+![1st Floor Drawing](imgs/1st%20Floor%20Drawing.jpg) 
+
+## Floor 2
+![2nd Floor Drawing](imgs/2nd%20Floor%20Drawing.jpg) 
+
+## Floor 3
+![3rd Floor Drawing](imgs/3rd%20Floor%20Drawing.jpg)
 
 
 
